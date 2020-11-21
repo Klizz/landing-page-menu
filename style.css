@@ -97,6 +97,8 @@ body {
 
 .sidenav a:hover {
   color: black;
+  margin-left: 15px;
+  transition: 0.5s;
 }
 
 .hidden-nav {
